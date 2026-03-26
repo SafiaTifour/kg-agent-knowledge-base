@@ -1,1 +1,0 @@
-# kg-agent-knowledge-base
